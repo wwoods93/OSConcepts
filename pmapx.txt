@@ -1,0 +1,1012 @@
+00003c6218a41000     120       0       0 -----   [ anon ]
+00003c6218a41000       0       0       0 -----   [ anon ]
+00003c6218a5f000     264       0       0 -----   [ anon ]
+00003c6218a5f000       0       0       0 -----   [ anon ]
+00003c6218aa1000     120       0       0 -----   [ anon ]
+00003c6218aa1000       0       0       0 -----   [ anon ]
+00003c6218abf000       8       0       0 -----   [ anon ]
+00003c6218abf000       0       0       0 -----   [ anon ]
+00003c6218ac1000     120       0       0 -----   [ anon ]
+00003c6218ac1000       0       0       0 -----   [ anon ]
+00003c6218adf000       8       0       0 -----   [ anon ]
+00003c6218adf000       0       0       0 -----   [ anon ]
+00003c6218ae1000     120       0       0 -----   [ anon ]
+00003c6218ae1000       0       0       0 -----   [ anon ]
+00003c6218aff000       8       0       0 -----   [ anon ]
+00003c6218aff000       0       0       0 -----   [ anon ]
+00003c6218b01000     120     108     108 rw---   [ anon ]
+00003c6218b01000       0       0       0 rw---   [ anon ]
+00003c6218b1f000       8       0       0 -----   [ anon ]
+00003c6218b1f000       0       0       0 -----   [ anon ]
+00003c6218b21000     120       0       0 -----   [ anon ]
+00003c6218b21000       0       0       0 -----   [ anon ]
+00003c6218b3f000       8       0       0 -----   [ anon ]
+00003c6218b3f000       0       0       0 -----   [ anon ]
+00003c6218b41000     120       0       0 -----   [ anon ]
+00003c6218b41000       0       0       0 -----   [ anon ]
+00003c6218b5f000       8       0       0 -----   [ anon ]
+00003c6218b5f000       0       0       0 -----   [ anon ]
+00003c6218b61000     120       0       0 -----   [ anon ]
+00003c6218b61000       0       0       0 -----   [ anon ]
+00003c6218b7f000       4       0       0 -----   [ anon ]
+00003c6218b7f000       0       0       0 -----   [ anon ]
+000055e68a17c000   28864    8772       0 r---- chrome
+000055e68a17c000       0       0       0 r---- chrome
+000055e68bdac000  125256   66560       0 r-x-- chrome
+000055e68bdac000       0       0       0 r-x-- chrome
+000055e6937fe000    6888    6872    6872 r---- chrome
+000055e6937fe000       0       0       0 r---- chrome
+000055e693eb8000     372     364     364 rw--- chrome
+000055e693eb8000       0       0       0 rw--- chrome
+000055e693f15000    2336     536     536 rw---   [ anon ]
+000055e693f15000       0       0       0 rw---   [ anon ]
+00007fbeba92c000       4       0       0 -----   [ anon ]
+00007fbeba92c000       0       0       0 -----   [ anon ]
+00007fbeba92d000    8192      16      16 rw---   [ anon ]
+00007fbeba92d000       0       0       0 rw---   [ anon ]
+00007fbebb12d000       4       0       0 -----   [ anon ]
+00007fbebb12d000       0       0       0 -----   [ anon ]
+00007fbebb12e000    8192      16      16 rw---   [ anon ]
+00007fbebb12e000       0       0       0 rw---   [ anon ]
+00007fbebb92e000     380     180       0 r--s- LiberationSerif-Regular.ttf
+00007fbebb92e000       0       0       0 r--s- LiberationSerif-Regular.ttf
+00007fbebbc6d000       4       0       0 -----   [ anon ]
+00007fbebbc6d000       0       0       0 -----   [ anon ]
+00007fbebbc6e000    8192      16      16 rw---   [ anon ]
+00007fbebbc6e000       0       0       0 rw---   [ anon ]
+00007fbebc46e000     360     160       0 r--s- LiberationSerif-Bold.ttf
+00007fbebc46e000       0       0       0 r--s- LiberationSerif-Bold.ttf
+00007fbebc4c8000       4       0       0 -----   [ anon ]
+00007fbebc4c8000       0       0       0 -----   [ anon ]
+00007fbebc4c9000    8192      16      16 rw---   [ anon ]
+00007fbebc4c9000       0       0       0 rw---   [ anon ]
+00007fbebd009000    1024     120     120 rw-s- .com.google.Chrome.OEMJeo (deleted)
+00007fbebd009000       0       0       0 rw-s- .com.google.Chrome.OEMJeo (deleted)
+00007fbebd489000     404     248       0 r--s- LiberationSans-Italic.ttf
+00007fbebd489000       0       0       0 r--s- LiberationSans-Italic.ttf
+00007fbebd8ad000       4       0       0 -----   [ anon ]
+00007fbebd8ad000       0       0       0 -----   [ anon ]
+00007fbebd8ae000    8192      16      16 rw---   [ anon ]
+00007fbebd8ae000       0       0       0 rw---   [ anon ]
+00007fbebe0ae000     308     108       0 r--s- LiberationMono-Regular.ttf
+00007fbebe0ae000       0       0       0 r--s- LiberationMono-Regular.ttf
+00007fbebe0fb000     404     192       0 r--s- LiberationSans-Bold.ttf
+00007fbebe0fb000       0       0       0 r--s- LiberationSans-Bold.ttf
+00007fbebe420000    4100    1756    1756 rw-s- .com.google.Chrome.fbmE8g (deleted)
+00007fbebe420000       0       0       0 rw-s- .com.google.Chrome.fbmE8g (deleted)
+00007fbebea21000     312     312       0 r--s- Ruleset Data
+00007fbebea21000       0       0       0 r--s- Ruleset Data
+00007fbebea8b000     400     316       0 r--s- LiberationSans-Regular.ttf
+00007fbebea8b000       0       0       0 r--s- LiberationSans-Regular.ttf
+00007fbebeaef000    2048     268     268 rw-s- .com.google.Chrome.zQ3Qen (deleted)
+00007fbebeaef000       0       0       0 rw-s- .com.google.Chrome.zQ3Qen (deleted)
+00007fbebecef000       4       0       0 -----   [ anon ]
+00007fbebecef000       0       0       0 -----   [ anon ]
+00007fbebecf0000    8192      36      36 rw---   [ anon ]
+00007fbebecf0000       0       0       0 rw---   [ anon ]
+00007fbebf4f0000       4       0       0 -----   [ anon ]
+00007fbebf4f0000       0       0       0 -----   [ anon ]
+00007fbebf4f1000    8192      76      76 rw---   [ anon ]
+00007fbebf4f1000       0       0       0 rw---   [ anon ]
+00007fbebfcf1000       4       0       0 -----   [ anon ]
+00007fbebfcf1000       0       0       0 -----   [ anon ]
+00007fbebfcf2000    8192      36      36 rw---   [ anon ]
+00007fbebfcf2000       0       0       0 rw---   [ anon ]
+00007fbec04f2000       4       0       0 -----   [ anon ]
+00007fbec04f2000       0       0       0 -----   [ anon ]
+00007fbec04f3000    8192      76      76 rw---   [ anon ]
+00007fbec04f3000       0       0       0 rw---   [ anon ]
+00007fbec0cf3000       4       0       0 -----   [ anon ]
+00007fbec0cf3000       0       0       0 -----   [ anon ]
+00007fbec0cf4000    8192      36      36 rw---   [ anon ]
+00007fbec0cf4000       0       0       0 rw---   [ anon ]
+00007fbec14f4000       4       0       0 -----   [ anon ]
+00007fbec14f4000       0       0       0 -----   [ anon ]
+00007fbec14f5000    8192      12      12 rw---   [ anon ]
+00007fbec14f5000       0       0       0 rw---   [ anon ]
+00007fbec1cf5000       4       0       0 -----   [ anon ]
+00007fbec1cf5000       0       0       0 -----   [ anon ]
+00007fbec1cf6000    8192      16      16 rw---   [ anon ]
+00007fbec1cf6000       0       0       0 rw---   [ anon ]
+00007fbec2cf7000       4       0       0 -----   [ anon ]
+00007fbec2cf7000       0       0       0 -----   [ anon ]
+00007fbec2cf8000    8192      12      12 rw---   [ anon ]
+00007fbec2cf8000       0       0       0 rw---   [ anon ]
+00007fbec34f8000       4       0       0 -----   [ anon ]
+00007fbec34f8000       0       0       0 -----   [ anon ]
+00007fbec34f9000    8192      16      16 rw---   [ anon ]
+00007fbec34f9000       0       0       0 rw---   [ anon ]
+00007fbec3cf9000       4       0       0 -----   [ anon ]
+00007fbec3cf9000       0       0       0 -----   [ anon ]
+00007fbec3cfa000    8192      24      24 rw---   [ anon ]
+00007fbec3cfa000       0       0       0 rw---   [ anon ]
+00007fbec44fa000       4       0       0 -----   [ anon ]
+00007fbec44fa000       0       0       0 -----   [ anon ]
+00007fbec44fb000    8192      12      12 rw---   [ anon ]
+00007fbec44fb000       0       0       0 rw---   [ anon ]
+00007fbec4cfb000    4176       0       0 r-x-- libwidevinecdm.so
+00007fbec4cfb000       0       0       0 r-x-- libwidevinecdm.so
+00007fbec510f000       4       0       0 ----- libwidevinecdm.so
+00007fbec510f000       0       0       0 ----- libwidevinecdm.so
+00007fbec5110000      36      36      36 r---- libwidevinecdm.so
+00007fbec5110000       0       0       0 r---- libwidevinecdm.so
+00007fbec5119000    1320      60      40 rw--- libwidevinecdm.so
+00007fbec5119000       0       0       0 rw--- libwidevinecdm.so
+00007fbec5263000     372      80      80 rw---   [ anon ]
+00007fbec5263000       0       0       0 rw---   [ anon ]
+00007fbec52c0000     236       0       0 ----- libwidevinecdm.so
+00007fbec52c0000       0       0       0 ----- libwidevinecdm.so
+00007fbec52fb000    2048       0       0 rw--- libwidevinecdm.so
+00007fbec52fb000       0       0       0 rw--- libwidevinecdm.so
+00007fbec54fb000     924       0       0 r-x-- libwidevinecdm.so
+00007fbec54fb000       0       0       0 r-x-- libwidevinecdm.so
+00007fbec55e2000    1508       0       0 r-x-- libstdc++.so.6.0.25
+00007fbec55e2000       0       0       0 r-x-- libstdc++.so.6.0.25
+00007fbec575b000    2048       0       0 ----- libstdc++.so.6.0.25
+00007fbec575b000       0       0       0 ----- libstdc++.so.6.0.25
+00007fbec595b000      40      40      40 r---- libstdc++.so.6.0.25
+00007fbec595b000       0       0       0 r---- libstdc++.so.6.0.25
+00007fbec5965000       8       8       8 rw--- libstdc++.so.6.0.25
+00007fbec5965000       0       0       0 rw--- libstdc++.so.6.0.25
+00007fbec5967000      16      16      16 rw---   [ anon ]
+00007fbec5967000       0       0       0 rw---   [ anon ]
+00007fbec596b000   17900       0       0 r-x-- libpepflashplayer.so
+00007fbec596b000       0       0       0 r-x-- libpepflashplayer.so
+00007fbec6ae6000    2044       0       0 ----- libpepflashplayer.so
+00007fbec6ae6000       0       0       0 ----- libpepflashplayer.so
+00007fbec6ce5000     936     936     936 r---- libpepflashplayer.so
+00007fbec6ce5000       0       0       0 r---- libpepflashplayer.so
+00007fbec6dcf000     220      92      92 rw--- libpepflashplayer.so
+00007fbec6dcf000       0       0       0 rw--- libpepflashplayer.so
+00007fbec6e06000     980      48      48 rw---   [ anon ]
+00007fbec6e06000       0       0       0 rw---   [ anon ]
+00007fbec6efb000    5856     124       0 r--s- resources.pak
+00007fbec6efb000       0       0       0 r--s- resources.pak
+00007fbec74b3000    1560       0       0 r--s- chrome_200_percent.pak
+00007fbec74b3000       0       0       0 r--s- chrome_200_percent.pak
+00007fbec7639000   10256     536       0 r--s- icudtl.dat
+00007fbec7639000       0       0       0 r--s- icudtl.dat
+00007fbec803d000    2936     120       0 r---- locale-archive
+00007fbec803d000       0       0       0 r---- locale-archive
+00007fbec831b000     172      60       0 r-x-- libgraphite2.so.3.0.1
+00007fbec831b000       0       0       0 r-x-- libgraphite2.so.3.0.1
+00007fbec8346000    2044       0       0 ----- libgraphite2.so.3.0.1
+00007fbec8346000       0       0       0 ----- libgraphite2.so.3.0.1
+00007fbec8545000       8       8       8 r---- libgraphite2.so.3.0.1
+00007fbec8545000       0       0       0 r---- libgraphite2.so.3.0.1
+00007fbec8547000       4       4       4 rw--- libgraphite2.so.3.0.1
+00007fbec8547000       0       0       0 rw--- libgraphite2.so.3.0.1
+00007fbec8548000      24      24       0 r-x-- libuuid.so.1.3.0
+00007fbec8548000       0       0       0 r-x-- libuuid.so.1.3.0
+00007fbec854e000    2044       0       0 ----- libuuid.so.1.3.0
+00007fbec854e000       0       0       0 ----- libuuid.so.1.3.0
+00007fbec874d000       4       4       4 r---- libuuid.so.1.3.0
+00007fbec874d000       0       0       0 r---- libuuid.so.1.3.0
+00007fbec874e000       4       4       4 rw--- libuuid.so.1.3.0
+00007fbec874e000       0       0       0 rw--- libuuid.so.1.3.0
+00007fbec874f000      80      64       0 r-x-- libgpg-error.so.0.22.0
+00007fbec874f000       0       0       0 r-x-- libgpg-error.so.0.22.0
+00007fbec8763000    2044       0       0 ----- libgpg-error.so.0.22.0
+00007fbec8763000       0       0       0 ----- libgpg-error.so.0.22.0
+00007fbec8962000       4       4       4 r---- libgpg-error.so.0.22.0
+00007fbec8962000       0       0       0 r---- libgpg-error.so.0.22.0
+00007fbec8963000       4       4       4 rw--- libgpg-error.so.0.22.0
+00007fbec8963000       0       0       0 rw--- libgpg-error.so.0.22.0
+00007fbec8964000      12      12       0 r-x-- libkeyutils.so.1.5
+00007fbec8964000       0       0       0 r-x-- libkeyutils.so.1.5
+00007fbec8967000    2044       0       0 ----- libkeyutils.so.1.5
+00007fbec8967000       0       0       0 ----- libkeyutils.so.1.5
+00007fbec8b66000       4       4       4 r---- libkeyutils.so.1.5
+00007fbec8b66000       0       0       0 r---- libkeyutils.so.1.5
+00007fbec8b67000       4       4       4 rw--- libkeyutils.so.1.5
+00007fbec8b67000       0       0       0 rw--- libkeyutils.so.1.5
+00007fbec8b68000      24      24       0 r-x-- libdatrie.so.1.3.3
+00007fbec8b68000       0       0       0 r-x-- libdatrie.so.1.3.3
+00007fbec8b6e000    2044       0       0 ----- libdatrie.so.1.3.3
+00007fbec8b6e000       0       0       0 ----- libdatrie.so.1.3.3
+00007fbec8d6d000       4       4       4 r---- libdatrie.so.1.3.3
+00007fbec8d6d000       0       0       0 r---- libdatrie.so.1.3.3
+00007fbec8d6e000       4       4       4 rw--- libdatrie.so.1.3.3
+00007fbec8d6e000       0       0       0 rw--- libdatrie.so.1.3.3
+00007fbec8d6f000     624      64       0 r-x-- libharfbuzz.so.0.10702.0
+00007fbec8d6f000       0       0       0 r-x-- libharfbuzz.so.0.10702.0
+00007fbec8e0b000    2048       0       0 ----- libharfbuzz.so.0.10702.0
+00007fbec8e0b000       0       0       0 ----- libharfbuzz.so.0.10702.0
+00007fbec900b000       4       4       4 r---- libharfbuzz.so.0.10702.0
+00007fbec900b000       0       0       0 r---- libharfbuzz.so.0.10702.0
+00007fbec900c000       4       4       4 rw--- libharfbuzz.so.0.10702.0
+00007fbec900c000       0       0       0 rw--- libharfbuzz.so.0.10702.0
+00007fbec900d000     284      64       0 r-x-- libblkid.so.1.1.0
+00007fbec900d000       0       0       0 r-x-- libblkid.so.1.1.0
+00007fbec9054000    2048       0       0 ----- libblkid.so.1.1.0
+00007fbec9054000       0       0       0 ----- libblkid.so.1.1.0
+00007fbec9254000      16      16      16 r---- libblkid.so.1.1.0
+00007fbec9254000       0       0       0 r---- libblkid.so.1.1.0
+00007fbec9258000       4       4       4 rw--- libblkid.so.1.1.0
+00007fbec9258000       0       0       0 rw--- libblkid.so.1.1.0
+00007fbec9259000       4       0       0 rw---   [ anon ]
+00007fbec9259000       0       0       0 rw---   [ anon ]
+00007fbec925a000    1104      64       0 r-x-- libgcrypt.so.20.2.1
+00007fbec925a000       0       0       0 r-x-- libgcrypt.so.20.2.1
+00007fbec936e000    2048       0       0 ----- libgcrypt.so.20.2.1
+00007fbec936e000       0       0       0 ----- libgcrypt.so.20.2.1
+00007fbec956e000       8       8       8 r---- libgcrypt.so.20.2.1
+00007fbec956e000       0       0       0 r---- libgcrypt.so.20.2.1
+00007fbec9570000      20      20      20 rw--- libgcrypt.so.20.2.1
+00007fbec9570000       0       0       0 rw--- libgcrypt.so.20.2.1
+00007fbec9575000       4       0       0 rw---   [ anon ]
+00007fbec9575000       0       0       0 rw---   [ anon ]
+00007fbec9576000     108      64       0 r-x-- liblz4.so.1.7.1
+00007fbec9576000       0       0       0 r-x-- liblz4.so.1.7.1
+00007fbec9591000    2044       0       0 ----- liblz4.so.1.7.1
+00007fbec9591000       0       0       0 ----- liblz4.so.1.7.1
+00007fbec9790000       4       4       4 r---- liblz4.so.1.7.1
+00007fbec9790000       0       0       0 r---- liblz4.so.1.7.1
+00007fbec9791000       4       4       4 rw--- liblz4.so.1.7.1
+00007fbec9791000       0       0       0 rw--- liblz4.so.1.7.1
+00007fbec9792000     144      64       0 r-x-- liblzma.so.5.2.2
+00007fbec9792000       0       0       0 r-x-- liblzma.so.5.2.2
+00007fbec97b6000    2048       0       0 ----- liblzma.so.5.2.2
+00007fbec97b6000       0       0       0 ----- liblzma.so.5.2.2
+00007fbec99b6000       4       4       4 r---- liblzma.so.5.2.2
+00007fbec99b6000       0       0       0 r---- liblzma.so.5.2.2
+00007fbec99b7000       4       4       4 rw--- liblzma.so.5.2.2
+00007fbec99b7000       0       0       0 rw--- liblzma.so.5.2.2
+00007fbec99b8000     508      64       0 r-x-- libgmp.so.10.3.2
+00007fbec99b8000       0       0       0 r-x-- libgmp.so.10.3.2
+00007fbec9a37000    2048       0       0 ----- libgmp.so.10.3.2
+00007fbec9a37000       0       0       0 ----- libgmp.so.10.3.2
+00007fbec9c37000       4       4       4 r---- libgmp.so.10.3.2
+00007fbec9c37000       0       0       0 r---- libgmp.so.10.3.2
+00007fbec9c38000       4       4       4 rw--- libgmp.so.10.3.2
+00007fbec9c38000       0       0       0 rw--- libgmp.so.10.3.2
+00007fbec9c39000     204      64       0 r-x-- libhogweed.so.4.4
+00007fbec9c39000       0       0       0 r-x-- libhogweed.so.4.4
+00007fbec9c6c000    2044       0       0 ----- libhogweed.so.4.4
+00007fbec9c6c000       0       0       0 ----- libhogweed.so.4.4
+00007fbec9e6b000       4       4       4 r---- libhogweed.so.4.4
+00007fbec9e6b000       0       0       0 r---- libhogweed.so.4.4
+00007fbec9e6c000       4       4       4 rw--- libhogweed.so.4.4
+00007fbec9e6c000       0       0       0 rw--- libhogweed.so.4.4
+00007fbec9e6d000     208      64       0 r-x-- libnettle.so.6.4
+00007fbec9e6d000       0       0       0 r-x-- libnettle.so.6.4
+00007fbec9ea1000    2044       0       0 ----- libnettle.so.6.4
+00007fbec9ea1000       0       0       0 ----- libnettle.so.6.4
+00007fbeca0a0000       8       8       8 r---- libnettle.so.6.4
+00007fbeca0a0000       0       0       0 r---- libnettle.so.6.4
+00007fbeca0a2000       4       4       4 rw--- libnettle.so.6.4
+00007fbeca0a2000       0       0       0 rw--- libnettle.so.6.4
+00007fbeca0a3000      68      64       0 r-x-- libtasn1.so.6.5.5
+00007fbeca0a3000       0       0       0 r-x-- libtasn1.so.6.5.5
+00007fbeca0b4000    2048       0       0 ----- libtasn1.so.6.5.5
+00007fbeca0b4000       0       0       0 ----- libtasn1.so.6.5.5
+00007fbeca2b4000       4       4       4 r---- libtasn1.so.6.5.5
+00007fbeca2b4000       0       0       0 r---- libtasn1.so.6.5.5
+00007fbeca2b5000       4       4       4 rw--- libtasn1.so.6.5.5
+00007fbeca2b5000       0       0       0 rw--- libtasn1.so.6.5.5
+00007fbeca2b6000    1512      64       0 r-x-- libunistring.so.2.1.0
+00007fbeca2b6000       0       0       0 r-x-- libunistring.so.2.1.0
+00007fbeca430000    2048       0       0 ----- libunistring.so.2.1.0
+00007fbeca430000       0       0       0 ----- libunistring.so.2.1.0
+00007fbeca630000      12      12      12 r---- libunistring.so.2.1.0
+00007fbeca630000       0       0       0 r---- libunistring.so.2.1.0
+00007fbeca633000       4       4       4 rw--- libunistring.so.2.1.0
+00007fbeca633000       0       0       0 rw--- libunistring.so.2.1.0
+00007fbeca634000     112      60       0 r-x-- libidn2.so.0.3.3
+00007fbeca634000       0       0       0 r-x-- libidn2.so.0.3.3
+00007fbeca650000    2044       0       0 ----- libidn2.so.0.3.3
+00007fbeca650000       0       0       0 ----- libidn2.so.0.3.3
+00007fbeca84f000       4       4       4 r---- libidn2.so.0.3.3
+00007fbeca84f000       0       0       0 r---- libidn2.so.0.3.3
+00007fbeca850000       4       4       4 rw--- libidn2.so.0.3.3
+00007fbeca850000       0       0       0 rw--- libidn2.so.0.3.3
+00007fbeca851000    1128      64       0 r-x-- libp11-kit.so.0.3.0
+00007fbeca851000       0       0       0 r-x-- libp11-kit.so.0.3.0
+00007fbeca96b000    2048       0       0 ----- libp11-kit.so.0.3.0
+00007fbeca96b000       0       0       0 ----- libp11-kit.so.0.3.0
+00007fbecab6b000      40      40      40 r---- libp11-kit.so.0.3.0
+00007fbecab6b000       0       0       0 r---- libp11-kit.so.0.3.0
+00007fbecab75000      40      40      40 rw--- libp11-kit.so.0.3.0
+00007fbecab75000       0       0       0 rw--- libp11-kit.so.0.3.0
+00007fbecab7f000       4       4       4 rw---   [ anon ]
+00007fbecab7f000       0       0       0 rw---   [ anon ]
+00007fbecab80000      40      40       0 r-x-- libkrb5support.so.0.1
+00007fbecab80000       0       0       0 r-x-- libkrb5support.so.0.1
+00007fbecab8a000    2044       0       0 ----- libkrb5support.so.0.1
+00007fbecab8a000       0       0       0 ----- libkrb5support.so.0.1
+00007fbecad89000       4       4       4 r---- libkrb5support.so.0.1
+00007fbecad89000       0       0       0 r---- libkrb5support.so.0.1
+00007fbecad8a000       4       4       4 rw--- libkrb5support.so.0.1
+00007fbecad8a000       0       0       0 rw--- libkrb5support.so.0.1
+00007fbecad8b000      12      12       0 r-x-- libcom_err.so.2.1
+00007fbecad8b000       0       0       0 r-x-- libcom_err.so.2.1
+00007fbecad8e000    2044       0       0 ----- libcom_err.so.2.1
+00007fbecad8e000       0       0       0 ----- libcom_err.so.2.1
+00007fbecaf8d000       4       4       4 r---- libcom_err.so.2.1
+00007fbecaf8d000       0       0       0 r---- libcom_err.so.2.1
+00007fbecaf8e000       4       4       4 rw--- libcom_err.so.2.1
+00007fbecaf8e000       0       0       0 rw--- libcom_err.so.2.1
+00007fbecaf8f000     184      64       0 r-x-- libk5crypto.so.3.1
+00007fbecaf8f000       0       0       0 r-x-- libk5crypto.so.3.1
+00007fbecafbd000    2048       0       0 ----- libk5crypto.so.3.1
+00007fbecafbd000       0       0       0 ----- libk5crypto.so.3.1
+00007fbecb1bd000       8       8       8 r---- libk5crypto.so.3.1
+00007fbecb1bd000       0       0       0 r---- libk5crypto.so.3.1
+00007fbecb1bf000       4       4       4 rw--- libk5crypto.so.3.1
+00007fbecb1bf000       0       0       0 rw--- libk5crypto.so.3.1
+00007fbecb1c0000       4       0       0 rw---   [ anon ]
+00007fbecb1c0000       0       0       0 rw---   [ anon ]
+00007fbecb1c1000     792      64       0 r-x-- libkrb5.so.3.3
+00007fbecb1c1000       0       0       0 r-x-- libkrb5.so.3.3
+00007fbecb287000    2048       0       0 ----- libkrb5.so.3.3
+00007fbecb287000       0       0       0 ----- libkrb5.so.3.3
+00007fbecb487000      56      56      56 r---- libkrb5.so.3.3
+00007fbecb487000       0       0       0 r---- libkrb5.so.3.3
+00007fbecb495000       8       8       8 rw--- libkrb5.so.3.3
+00007fbecb495000       0       0       0 rw--- libkrb5.so.3.3
+00007fbecb497000      76      64       0 r-x-- libbsd.so.0.8.7
+00007fbecb497000       0       0       0 r-x-- libbsd.so.0.8.7
+00007fbecb4aa000    2044       0       0 ----- libbsd.so.0.8.7
+00007fbecb4aa000       0       0       0 ----- libbsd.so.0.8.7
+00007fbecb6a9000       4       4       4 r---- libbsd.so.0.8.7
+00007fbecb6a9000       0       0       0 r---- libbsd.so.0.8.7
+00007fbecb6aa000       4       4       4 rw--- libbsd.so.0.8.7
+00007fbecb6aa000       0       0       0 rw--- libbsd.so.0.8.7
+00007fbecb6ab000       4       0       0 rw---   [ anon ]
+00007fbecb6ab000       0       0       0 rw---   [ anon ]
+00007fbecb6ac000      52      52       0 r-x-- libwayland-client.so.0.3.0
+00007fbecb6ac000       0       0       0 r-x-- libwayland-client.so.0.3.0
+00007fbecb6b9000    2044       0       0 ----- libwayland-client.so.0.3.0
+00007fbecb6b9000       0       0       0 ----- libwayland-client.so.0.3.0
+00007fbecb8b8000       8       8       8 r---- libwayland-client.so.0.3.0
+00007fbecb8b8000       0       0       0 r---- libwayland-client.so.0.3.0
+00007fbecb8ba000       4       4       4 rw--- libwayland-client.so.0.3.0
+00007fbecb8ba000       0       0       0 rw--- libwayland-client.so.0.3.0
+00007fbecb8bb000       4       4       0 r-x-- libwayland-egl.so.1.0.0
+00007fbecb8bb000       0       0       0 r-x-- libwayland-egl.so.1.0.0
+00007fbecb8bc000    2044       0       0 ----- libwayland-egl.so.1.0.0
+00007fbecb8bc000       0       0       0 ----- libwayland-egl.so.1.0.0
+00007fbecbabb000       4       4       4 r---- libwayland-egl.so.1.0.0
+00007fbecbabb000       0       0       0 r---- libwayland-egl.so.1.0.0
+00007fbecbabc000       4       4       4 rw--- libwayland-egl.so.1.0.0
+00007fbecbabc000       0       0       0 rw--- libwayland-egl.so.1.0.0
+00007fbecbabd000      16      16       0 r-x-- libwayland-cursor.so.0.0.0
+00007fbecbabd000       0       0       0 r-x-- libwayland-cursor.so.0.0.0
+00007fbecbac1000    2044       0       0 ----- libwayland-cursor.so.0.0.0
+00007fbecbac1000       0       0       0 ----- libwayland-cursor.so.0.0.0
+00007fbecbcc0000       4       4       4 r---- libwayland-cursor.so.0.0.0
+00007fbecbcc0000       0       0       0 r---- libwayland-cursor.so.0.0.0
+00007fbecbcc1000      16      16       8 rw--- libwayland-cursor.so.0.0.0
+00007fbecbcc1000       0       0       0 rw--- libwayland-cursor.so.0.0.0
+00007fbecbcc5000     244      64       0 r-x-- libxkbcommon.so.0.0.0
+00007fbecbcc5000       0       0       0 r-x-- libxkbcommon.so.0.0.0
+00007fbecbd02000    2044       0       0 ----- libxkbcommon.so.0.0.0
+00007fbecbd02000       0       0       0 ----- libxkbcommon.so.0.0.0
+00007fbecbf01000       8       8       8 r---- libxkbcommon.so.0.0.0
+00007fbecbf01000       0       0       0 r---- libxkbcommon.so.0.0.0
+00007fbecbf03000       4       4       4 rw--- libxkbcommon.so.0.0.0
+00007fbecbf03000       0       0       0 rw--- libxkbcommon.so.0.0.0
+00007fbecbf04000       8       8       0 r-x-- libXinerama.so.1.0.0
+00007fbecbf04000       0       0       0 r-x-- libXinerama.so.1.0.0
+00007fbecbf06000    2044       0       0 ----- libXinerama.so.1.0.0
+00007fbecbf06000       0       0       0 ----- libXinerama.so.1.0.0
+00007fbecc105000       4       4       4 r---- libXinerama.so.1.0.0
+00007fbecc105000       0       0       0 r---- libXinerama.so.1.0.0
+00007fbecc106000       4       4       4 rw--- libXinerama.so.1.0.0
+00007fbecc106000       0       0       0 rw--- libXinerama.so.1.0.0
+00007fbecc107000     972      64       0 r-x-- libepoxy.so.0.0.0
+00007fbecc107000       0       0       0 r-x-- libepoxy.so.0.0.0
+00007fbecc1fa000    2048       0       0 ----- libepoxy.so.0.0.0
+00007fbecc1fa000       0       0       0 ----- libepoxy.so.0.0.0
+00007fbecc3fa000      28      28      28 r---- libepoxy.so.0.0.0
+00007fbecc3fa000       0       0       0 r---- libepoxy.so.0.0.0
+00007fbecc401000      28      28      28 rw--- libepoxy.so.0.0.0
+00007fbecc401000       0       0       0 rw--- libepoxy.so.0.0.0
+00007fbecc408000      24      24       0 r-x-- libcairo-gobject.so.2.11510.0
+00007fbecc408000       0       0       0 r-x-- libcairo-gobject.so.2.11510.0
+00007fbecc40e000    2048       0       0 ----- libcairo-gobject.so.2.11510.0
+00007fbecc40e000       0       0       0 ----- libcairo-gobject.so.2.11510.0
+00007fbecc60e000       8       8       8 r---- libcairo-gobject.so.2.11510.0
+00007fbecc60e000       0       0       0 r---- libcairo-gobject.so.2.11510.0
+00007fbecc610000       4       4       4 rw--- libcairo-gobject.so.2.11510.0
+00007fbecc610000       0       0       0 rw--- libcairo-gobject.so.2.11510.0
+00007fbecc611000      48      48       0 r-x-- libxcb-render.so.0.0.0
+00007fbecc611000       0       0       0 r-x-- libxcb-render.so.0.0.0
+00007fbecc61d000    2044       0       0 ----- libxcb-render.so.0.0.0
+00007fbecc61d000       0       0       0 ----- libxcb-render.so.0.0.0
+00007fbecc81c000       4       4       4 r---- libxcb-render.so.0.0.0
+00007fbecc81c000       0       0       0 r---- libxcb-render.so.0.0.0
+00007fbecc81d000       4       4       4 rw--- libxcb-render.so.0.0.0
+00007fbecc81d000       0       0       0 rw--- libxcb-render.so.0.0.0
+00007fbecc81e000       8       8       0 r-x-- libxcb-shm.so.0.0.0
+00007fbecc81e000       0       0       0 r-x-- libxcb-shm.so.0.0.0
+00007fbecc820000    2044       0       0 ----- libxcb-shm.so.0.0.0
+00007fbecc820000       0       0       0 ----- libxcb-shm.so.0.0.0
+00007fbecca1f000       4       4       4 r---- libxcb-shm.so.0.0.0
+00007fbecca1f000       0       0       0 r---- libxcb-shm.so.0.0.0
+00007fbecca20000       4       4       4 rw--- libxcb-shm.so.0.0.0
+00007fbecca20000       0       0       0 rw--- libxcb-shm.so.0.0.0
+00007fbecca21000     196      64       0 r-x-- libpng16.so.16.34.0
+00007fbecca21000       0       0       0 r-x-- libpng16.so.16.34.0
+00007fbecca52000    2044       0       0 ----- libpng16.so.16.34.0
+00007fbecca52000       0       0       0 ----- libpng16.so.16.34.0
+00007fbeccc51000       4       4       4 r---- libpng16.so.16.34.0
+00007fbeccc51000       0       0       0 r---- libpng16.so.16.34.0
+00007fbeccc52000       4       4       4 rw--- libpng16.so.16.34.0
+00007fbeccc52000       0       0       0 rw--- libpng16.so.16.34.0
+00007fbeccc53000     628      64       0 r-x-- libpixman-1.so.0.34.0
+00007fbeccc53000       0       0       0 r-x-- libpixman-1.so.0.34.0
+00007fbecccf0000    2044       0       0 ----- libpixman-1.so.0.34.0
+00007fbecccf0000       0       0       0 ----- libpixman-1.so.0.34.0
+00007fbecceef000      32      32      32 r---- libpixman-1.so.0.34.0
+00007fbecceef000       0       0       0 r---- libpixman-1.so.0.34.0
+00007fbeccef7000       4       4       4 rw--- libpixman-1.so.0.34.0
+00007fbeccef7000       0       0       0 rw--- libpixman-1.so.0.34.0
+00007fbeccef8000      32      32       0 r-x-- libthai.so.0.3.0
+00007fbeccef8000       0       0       0 r-x-- libthai.so.0.3.0
+00007fbeccf00000    2044       0       0 ----- libthai.so.0.3.0
+00007fbeccf00000       0       0       0 ----- libthai.so.0.3.0
+00007fbecd0ff000       4       4       4 r---- libthai.so.0.3.0
+00007fbecd0ff000       0       0       0 r---- libthai.so.0.3.0
+00007fbecd100000       4       4       4 rw--- libthai.so.0.3.0
+00007fbecd100000       0       0       0 rw--- libthai.so.0.3.0
+00007fbecd101000     692      64       0 r-x-- libfreetype.so.6.15.0
+00007fbecd101000       0       0       0 r-x-- libfreetype.so.6.15.0
+00007fbecd1ae000    2044       0       0 ----- libfreetype.so.6.15.0
+00007fbecd1ae000       0       0       0 ----- libfreetype.so.6.15.0
+00007fbecd3ad000      28      28      28 r---- libfreetype.so.6.15.0
+00007fbecd3ad000       0       0       0 r---- libfreetype.so.6.15.0
+00007fbecd3b4000       4       4       4 rw--- libfreetype.so.6.15.0
+00007fbecd3b4000       0       0       0 rw--- libfreetype.so.6.15.0
+00007fbecd3b5000      80      64       0 r-x-- libpangoft2-1.0.so.0.4000.14
+00007fbecd3b5000       0       0       0 r-x-- libpangoft2-1.0.so.0.4000.14
+00007fbecd3c9000    2048       0       0 ----- libpangoft2-1.0.so.0.4000.14
+00007fbecd3c9000       0       0       0 ----- libpangoft2-1.0.so.0.4000.14
+00007fbecd5c9000       4       4       4 r---- libpangoft2-1.0.so.0.4000.14
+00007fbecd5c9000       0       0       0 r---- libpangoft2-1.0.so.0.4000.14
+00007fbecd5ca000       4       4       4 rw--- libpangoft2-1.0.so.0.4000.14
+00007fbecd5ca000       0       0       0 rw--- libpangoft2-1.0.so.0.4000.14
+00007fbecd5cb000     248      64       0 r-x-- libfontconfig.so.1.10.1
+00007fbecd5cb000       0       0       0 r-x-- libfontconfig.so.1.10.1
+00007fbecd609000    2048       0       0 ----- libfontconfig.so.1.10.1
+00007fbecd609000       0       0       0 ----- libfontconfig.so.1.10.1
+00007fbecd809000       8       8       8 r---- libfontconfig.so.1.10.1
+00007fbecd809000       0       0       0 r---- libfontconfig.so.1.10.1
+00007fbecd80b000      20      20       8 rw--- libfontconfig.so.1.10.1
+00007fbecd80b000       0       0       0 rw--- libfontconfig.so.1.10.1
+00007fbecd810000      68      64       0 r-x-- libwayland-server.so.0.1.0
+00007fbecd810000       0       0       0 r-x-- libwayland-server.so.0.1.0
+00007fbecd821000    2044       0       0 ----- libwayland-server.so.0.1.0
+00007fbecd821000       0       0       0 ----- libwayland-server.so.0.1.0
+00007fbecda20000       8       8       8 r---- libwayland-server.so.0.1.0
+00007fbecda20000       0       0       0 r---- libwayland-server.so.0.1.0
+00007fbecda22000       4       4       4 rw--- libwayland-server.so.0.1.0
+00007fbecda22000       0       0       0 rw--- libwayland-server.so.0.1.0
+00007fbecda23000     324      64       0 r-x-- libmount.so.1.1.0
+00007fbecda23000       0       0       0 r-x-- libmount.so.1.1.0
+00007fbecda74000    2044       0       0 ----- libmount.so.1.1.0
+00007fbecda74000       0       0       0 ----- libmount.so.1.1.0
+00007fbecdc73000       8       8       8 r---- libmount.so.1.1.0
+00007fbecdc73000       0       0       0 r---- libmount.so.1.1.0
+00007fbecdc75000       4       4       4 rw--- libmount.so.1.1.0
+00007fbecdc75000       0       0       0 rw--- libmount.so.1.1.0
+00007fbecdc76000       4       0       0 rw---   [ anon ]
+00007fbecdc76000       0       0       0 rw---   [ anon ]
+00007fbecdc77000      92      60       0 r-x-- libresolv-2.27.so
+00007fbecdc77000       0       0       0 r-x-- libresolv-2.27.so
+00007fbecdc8e000    2048       0       0 ----- libresolv-2.27.so
+00007fbecdc8e000       0       0       0 ----- libresolv-2.27.so
+00007fbecde8e000       4       4       4 r---- libresolv-2.27.so
+00007fbecde8e000       0       0       0 r---- libresolv-2.27.so
+00007fbecde8f000       4       4       4 rw--- libresolv-2.27.so
+00007fbecde8f000       0       0       0 rw--- libresolv-2.27.so
+00007fbecde90000       8       0       0 rw---   [ anon ]
+00007fbecde90000       0       0       0 rw---   [ anon ]
+00007fbecde92000     148      64       0 r-x-- libselinux.so.1
+00007fbecde92000       0       0       0 r-x-- libselinux.so.1
+00007fbecdeb7000    2044       0       0 ----- libselinux.so.1
+00007fbecdeb7000       0       0       0 ----- libselinux.so.1
+00007fbece0b6000       4       4       4 r---- libselinux.so.1
+00007fbece0b6000       0       0       0 r---- libselinux.so.1
+00007fbece0b7000       4       4       4 rw--- libselinux.so.1
+00007fbece0b7000       0       0       0 rw--- libselinux.so.1
+00007fbece0b8000       8       4       4 rw---   [ anon ]
+00007fbece0b8000       0       0       0 rw---   [ anon ]
+00007fbece0ba000      12      12       0 r-x-- libgmodule-2.0.so.0.5600.4
+00007fbece0ba000       0       0       0 r-x-- libgmodule-2.0.so.0.5600.4
+00007fbece0bd000    2044       0       0 ----- libgmodule-2.0.so.0.5600.4
+00007fbece0bd000       0       0       0 ----- libgmodule-2.0.so.0.5600.4
+00007fbece2bc000       4       4       4 r---- libgmodule-2.0.so.0.5600.4
+00007fbece2bc000       0       0       0 r---- libgmodule-2.0.so.0.5600.4
+00007fbece2bd000       4       4       4 rw--- libgmodule-2.0.so.0.5600.4
+00007fbece2bd000       0       0       0 rw--- libgmodule-2.0.so.0.5600.4
+00007fbece2be000     512      64       0 r-x-- libsystemd.so.0.21.0
+00007fbece2be000       0       0       0 r-x-- libsystemd.so.0.21.0
+00007fbece33e000    2044       0       0 ----- libsystemd.so.0.21.0
+00007fbece33e000       0       0       0 ----- libsystemd.so.0.21.0
+00007fbece53d000      12      12      12 r---- libsystemd.so.0.21.0
+00007fbece53d000       0       0       0 r---- libsystemd.so.0.21.0
+00007fbece540000       4       4       4 rw--- libsystemd.so.0.21.0
+00007fbece540000       0       0       0 rw--- libsystemd.so.0.21.0
+00007fbece541000       4       0       0 rw---   [ anon ]
+00007fbece541000       0       0       0 rw---   [ anon ]
+00007fbece542000     112      64       0 r-x-- libz.so.1.2.11
+00007fbece542000       0       0       0 r-x-- libz.so.1.2.11
+00007fbece55e000    2044       0       0 ----- libz.so.1.2.11
+00007fbece55e000       0       0       0 ----- libz.so.1.2.11
+00007fbece75d000       4       4       4 r---- libz.so.1.2.11
+00007fbece75d000       0       0       0 r---- libz.so.1.2.11
+00007fbece75e000       4       4       4 rw--- libz.so.1.2.11
+00007fbece75e000       0       0       0 rw--- libz.so.1.2.11
+00007fbece75f000      60      60       0 r-x-- libavahi-client.so.3.2.9
+00007fbece75f000       0       0       0 r-x-- libavahi-client.so.3.2.9
+00007fbece76e000    2048       0       0 ----- libavahi-client.so.3.2.9
+00007fbece76e000       0       0       0 ----- libavahi-client.so.3.2.9
+00007fbece96e000       4       4       4 r---- libavahi-client.so.3.2.9
+00007fbece96e000       0       0       0 r---- libavahi-client.so.3.2.9
+00007fbece96f000       4       4       4 rw--- libavahi-client.so.3.2.9
+00007fbece96f000       0       0       0 rw--- libavahi-client.so.3.2.9
+00007fbece970000      44      44       0 r-x-- libavahi-common.so.3.5.3
+00007fbece970000       0       0       0 r-x-- libavahi-common.so.3.5.3
+00007fbece97b000    2044       0       0 ----- libavahi-common.so.3.5.3
+00007fbece97b000       0       0       0 ----- libavahi-common.so.3.5.3
+00007fbeceb7a000       4       4       4 r---- libavahi-common.so.3.5.3
+00007fbeceb7a000       0       0       0 r---- libavahi-common.so.3.5.3
+00007fbeceb7b000       4       4       4 rw--- libavahi-common.so.3.5.3
+00007fbeceb7b000       0       0       0 rw--- libavahi-common.so.3.5.3
+00007fbeceb7c000    1376      64       0 r-x-- libgnutls.so.30.14.10
+00007fbeceb7c000       0       0       0 r-x-- libgnutls.so.30.14.10
+00007fbececd4000    2048       0       0 ----- libgnutls.so.30.14.10
+00007fbececd4000       0       0       0 ----- libgnutls.so.30.14.10
+00007fbeceed4000      48      48      48 r---- libgnutls.so.30.14.10
+00007fbeceed4000       0       0       0 r---- libgnutls.so.30.14.10
+00007fbeceee0000       4       4       4 rw--- libgnutls.so.30.14.10
+00007fbeceee0000       0       0       0 rw--- libgnutls.so.30.14.10
+00007fbeceee1000       4       4       4 rw---   [ anon ]
+00007fbeceee1000       0       0       0 rw---   [ anon ]
+00007fbeceee2000     288      64       0 r-x-- libgssapi_krb5.so.2.2
+00007fbeceee2000       0       0       0 r-x-- libgssapi_krb5.so.2.2
+00007fbecef2a000    2044       0       0 ----- libgssapi_krb5.so.2.2
+00007fbecef2a000       0       0       0 ----- libgssapi_krb5.so.2.2
+00007fbecf129000       8       8       8 r---- libgssapi_krb5.so.2.2
+00007fbecf129000       0       0       0 r---- libgssapi_krb5.so.2.2
+00007fbecf12b000       8       8       8 rw--- libgssapi_krb5.so.2.2
+00007fbecf12b000       0       0       0 rw--- libgssapi_krb5.so.2.2
+00007fbecf12d000      20      20       0 r-x-- libXdmcp.so.6.0.0
+00007fbecf12d000       0       0       0 r-x-- libXdmcp.so.6.0.0
+00007fbecf132000    2044       0       0 ----- libXdmcp.so.6.0.0
+00007fbecf132000       0       0       0 ----- libXdmcp.so.6.0.0
+00007fbecf331000       4       4       4 r---- libXdmcp.so.6.0.0
+00007fbecf331000       0       0       0 r---- libXdmcp.so.6.0.0
+00007fbecf332000       4       4       4 rw--- libXdmcp.so.6.0.0
+00007fbecf332000       0       0       0 rw--- libXdmcp.so.6.0.0
+00007fbecf333000       8       8       0 r-x-- libXau.so.6.0.0
+00007fbecf333000       0       0       0 r-x-- libXau.so.6.0.0
+00007fbecf335000    2048       0       0 ----- libXau.so.6.0.0
+00007fbecf335000       0       0       0 ----- libXau.so.6.0.0
+00007fbecf535000       4       4       4 r---- libXau.so.6.0.0
+00007fbecf535000       0       0       0 r---- libXau.so.6.0.0
+00007fbecf536000       4       4       4 rw--- libXau.so.6.0.0
+00007fbecf536000       0       0       0 rw--- libXau.so.6.0.0
+00007fbecf537000      12      12       0 r-x-- libplds4.so
+00007fbecf537000       0       0       0 r-x-- libplds4.so
+00007fbecf53a000    2044       0       0 ----- libplds4.so
+00007fbecf53a000       0       0       0 ----- libplds4.so
+00007fbecf739000       4       4       4 r---- libplds4.so
+00007fbecf739000       0       0       0 r---- libplds4.so
+00007fbecf73a000       4       4       4 rw--- libplds4.so
+00007fbecf73a000       0       0       0 rw--- libplds4.so
+00007fbecf73b000      16      16       0 r-x-- libplc4.so
+00007fbecf73b000       0       0       0 r-x-- libplc4.so
+00007fbecf73f000    2044       0       0 ----- libplc4.so
+00007fbecf73f000       0       0       0 ----- libplc4.so
+00007fbecf93e000       4       4       4 r---- libplc4.so
+00007fbecf93e000       0       0       0 r---- libplc4.so
+00007fbecf93f000       4       4       4 rw--- libplc4.so
+00007fbecf93f000       0       0       0 rw--- libplc4.so
+00007fbecf940000     448      60       0 r-x-- libpcre.so.3.13.3
+00007fbecf940000       0       0       0 r-x-- libpcre.so.3.13.3
+00007fbecf9b0000    2048       0       0 ----- libpcre.so.3.13.3
+00007fbecf9b0000       0       0       0 ----- libpcre.so.3.13.3
+00007fbecfbb0000       4       4       4 r---- libpcre.so.3.13.3
+00007fbecfbb0000       0       0       0 r---- libpcre.so.3.13.3
+00007fbecfbb1000       4       4       4 rw--- libpcre.so.3.13.3
+00007fbecfbb1000       0       0       0 rw--- libpcre.so.3.13.3
+00007fbecfbb2000      28      28       0 r-x-- libffi.so.6.0.4
+00007fbecfbb2000       0       0       0 r-x-- libffi.so.6.0.4
+00007fbecfbb9000    2044       0       0 ----- libffi.so.6.0.4
+00007fbecfbb9000       0       0       0 ----- libffi.so.6.0.4
+00007fbecfdb8000       4       4       4 r---- libffi.so.6.0.4
+00007fbecfdb8000       0       0       0 r---- libffi.so.6.0.4
+00007fbecfdb9000       4       4       4 rw--- libffi.so.6.0.4
+00007fbecfdb9000       0       0       0 rw--- libffi.so.6.0.4
+00007fbecfdba000    1948    1648       0 r-x-- libc-2.27.so
+00007fbecfdba000       0       0       0 r-x-- libc-2.27.so
+00007fbecffa1000    2048       0       0 ----- libc-2.27.so
+00007fbecffa1000       0       0       0 ----- libc-2.27.so
+00007fbed01a1000      16      16      16 r---- libc-2.27.so
+00007fbed01a1000       0       0       0 r---- libc-2.27.so
+00007fbed01a5000       8       8       8 rw--- libc-2.27.so
+00007fbed01a5000       0       0       0 rw--- libc-2.27.so
+00007fbed01a7000      16      12      12 rw---   [ anon ]
+00007fbed01a7000       0       0       0 rw---   [ anon ]
+00007fbed01ab000      92      64       0 r-x-- libgcc_s.so.1
+00007fbed01ab000       0       0       0 r-x-- libgcc_s.so.1
+00007fbed01c2000    2044       0       0 ----- libgcc_s.so.1
+00007fbed01c2000       0       0       0 ----- libgcc_s.so.1
+00007fbed03c1000       4       4       4 r---- libgcc_s.so.1
+00007fbed03c1000       0       0       0 r---- libgcc_s.so.1
+00007fbed03c2000       4       4       4 rw--- libgcc_s.so.1
+00007fbed03c2000       0       0       0 rw--- libgcc_s.so.1
+00007fbed03c3000     136      64       0 r-x-- libgdk_pixbuf-2.0.so.0.3611.0
+00007fbed03c3000       0       0       0 r-x-- libgdk_pixbuf-2.0.so.0.3611.0
+00007fbed03e5000    2048       0       0 ----- libgdk_pixbuf-2.0.so.0.3611.0
+00007fbed03e5000       0       0       0 ----- libgdk_pixbuf-2.0.so.0.3611.0
+00007fbed05e5000       4       4       4 r---- libgdk_pixbuf-2.0.so.0.3611.0
+00007fbed05e5000       0       0       0 r---- libgdk_pixbuf-2.0.so.0.3611.0
+00007fbed05e6000       4       4       4 rw--- libgdk_pixbuf-2.0.so.0.3611.0
+00007fbed05e6000       0       0       0 rw--- libgdk_pixbuf-2.0.so.0.3611.0
+00007fbed05e7000     940      64       0 r-x-- libgdk-3.so.0.2200.30
+00007fbed05e7000       0       0       0 r-x-- libgdk-3.so.0.2200.30
+00007fbed06d2000    2048       0       0 ----- libgdk-3.so.0.2200.30
+00007fbed06d2000       0       0       0 ----- libgdk-3.so.0.2200.30
+00007fbed08d2000      28      28      28 r---- libgdk-3.so.0.2200.30
+00007fbed08d2000       0       0       0 r---- libgdk-3.so.0.2200.30
+00007fbed08d9000      12      12      12 rw--- libgdk-3.so.0.2200.30
+00007fbed08d9000       0       0       0 rw--- libgdk-3.so.0.2200.30
+00007fbed08dc000       4       0       0 rw---   [ anon ]
+00007fbed08dc000       0       0       0 rw---   [ anon ]
+00007fbed08dd000    7108      64       0 r-x-- libgtk-3.so.0.2200.30
+00007fbed08dd000       0       0       0 r-x-- libgtk-3.so.0.2200.30
+00007fbed0fce000    2048       0       0 ----- libgtk-3.so.0.2200.30
+00007fbed0fce000       0       0       0 ----- libgtk-3.so.0.2200.30
+00007fbed11ce000      44      44      44 r---- libgtk-3.so.0.2200.30
+00007fbed11ce000       0       0       0 r---- libgtk-3.so.0.2200.30
+00007fbed11d9000      28      28      28 rw--- libgtk-3.so.0.2200.30
+00007fbed11d9000       0       0       0 rw--- libgtk-3.so.0.2200.30
+00007fbed11e0000      20       0       0 rw---   [ anon ]
+00007fbed11e0000       0       0       0 rw---   [ anon ]
+00007fbed11e5000       8       8       0 r-x-- libXss.so.1.0.0
+00007fbed11e5000       0       0       0 r-x-- libXss.so.1.0.0
+00007fbed11e7000    2048       0       0 ----- libXss.so.1.0.0
+00007fbed11e7000       0       0       0 ----- libXss.so.1.0.0
+00007fbed13e7000       4       4       4 r---- libXss.so.1.0.0
+00007fbed13e7000       0       0       0 r---- libXss.so.1.0.0
+00007fbed13e8000       4       4       4 rw--- libXss.so.1.0.0
+00007fbed13e8000       0       0       0 rw--- libXss.so.1.0.0
+00007fbed13e9000     176      64       0 r-x-- libatspi.so.0.0.1
+00007fbed13e9000       0       0       0 r-x-- libatspi.so.0.0.1
+00007fbed1415000    2048       0       0 ----- libatspi.so.0.0.1
+00007fbed1415000       0       0       0 ----- libatspi.so.0.0.1
+00007fbed1615000      12      12      12 r---- libatspi.so.0.0.1
+00007fbed1615000       0       0       0 r---- libatspi.so.0.0.1
+00007fbed1618000       4       4       4 rw--- libatspi.so.0.0.1
+00007fbed1618000       0       0       0 rw--- libatspi.so.0.0.1
+00007fbed1619000    1120      64       0 r-x-- libcairo.so.2.11510.0
+00007fbed1619000       0       0       0 r-x-- libcairo.so.2.11510.0
+00007fbed1731000    2044       0       0 ----- libcairo.so.2.11510.0
+00007fbed1731000       0       0       0 ----- libcairo.so.2.11510.0
+00007fbed1930000      12      12      12 r---- libcairo.so.2.11510.0
+00007fbed1930000       0       0       0 r---- libcairo.so.2.11510.0
+00007fbed1933000       8       8       8 rw--- libcairo.so.2.11510.0
+00007fbed1933000       0       0       0 rw--- libcairo.so.2.11510.0
+00007fbed1935000       4       0       0 rw---   [ anon ]
+00007fbed1935000       0       0       0 rw---   [ anon ]
+00007fbed1936000     296      64       0 r-x-- libpango-1.0.so.0.4000.14
+00007fbed1936000       0       0       0 r-x-- libpango-1.0.so.0.4000.14
+00007fbed1980000    2044       0       0 ----- libpango-1.0.so.0.4000.14
+00007fbed1980000       0       0       0 ----- libpango-1.0.so.0.4000.14
+00007fbed1b7f000      12      12      12 r---- libpango-1.0.so.0.4000.14
+00007fbed1b7f000       0       0       0 r---- libpango-1.0.so.0.4000.14
+00007fbed1b82000       4       4       4 rw--- libpango-1.0.so.0.4000.14
+00007fbed1b82000       0       0       0 rw--- libpango-1.0.so.0.4000.14
+00007fbed1b83000      48      48       0 r-x-- libpangocairo-1.0.so.0.4000.14
+00007fbed1b83000       0       0       0 r-x-- libpangocairo-1.0.so.0.4000.14
+00007fbed1b8f000    2044       0       0 ----- libpangocairo-1.0.so.0.4000.14
+00007fbed1b8f000       0       0       0 ----- libpangocairo-1.0.so.0.4000.14
+00007fbed1d8e000       4       4       4 r---- libpangocairo-1.0.so.0.4000.14
+00007fbed1d8e000       0       0       0 r---- libpangocairo-1.0.so.0.4000.14
+00007fbed1d8f000       4       4       4 rw--- libpangocairo-1.0.so.0.4000.14
+00007fbed1d8f000       0       0       0 rw--- libpangocairo-1.0.so.0.4000.14
+00007fbed1d90000    1020      64       0 r-x-- libasound.so.2.0.0
+00007fbed1d90000       0       0       0 r-x-- libasound.so.2.0.0
+00007fbed1e8f000    2048       0       0 ----- libasound.so.2.0.0
+00007fbed1e8f000       0       0       0 ----- libasound.so.2.0.0
+00007fbed208f000      28      28      28 r---- libasound.so.2.0.0
+00007fbed208f000       0       0       0 r---- libasound.so.2.0.0
+00007fbed2096000       4       4       4 rw--- libasound.so.2.0.0
+00007fbed2096000       0       0       0 rw--- libasound.so.2.0.0
+00007fbed2097000      52      52       0 r-x-- libgbm.so.1.0.0
+00007fbed2097000       0       0       0 r-x-- libgbm.so.1.0.0
+00007fbed20a4000    2048       0       0 ----- libgbm.so.1.0.0
+00007fbed20a4000       0       0       0 ----- libgbm.so.1.0.0
+00007fbed22a4000       4       4       4 r---- libgbm.so.1.0.0
+00007fbed22a4000       0       0       0 r---- libgbm.so.1.0.0
+00007fbed22a5000       4       4       4 rw--- libgbm.so.1.0.0
+00007fbed22a5000       0       0       0 rw--- libgbm.so.1.0.0
+00007fbed22a6000      64      64       0 r-x-- libdrm.so.2.4.0
+00007fbed22a6000       0       0       0 r-x-- libdrm.so.2.4.0
+00007fbed22b6000    2044       0       0 ----- libdrm.so.2.4.0
+00007fbed22b6000       0       0       0 ----- libdrm.so.2.4.0
+00007fbed24b5000       4       4       4 r---- libdrm.so.2.4.0
+00007fbed24b5000       0       0       0 r---- libdrm.so.2.4.0
+00007fbed24b6000       4       4       4 rw--- libdrm.so.2.4.0
+00007fbed24b6000       0       0       0 rw--- libdrm.so.2.4.0
+00007fbed24b7000     188      64       0 r-x-- libexpat.so.1.6.7
+00007fbed24b7000       0       0       0 r-x-- libexpat.so.1.6.7
+00007fbed24e6000    2048       0       0 ----- libexpat.so.1.6.7
+00007fbed24e6000       0       0       0 ----- libexpat.so.1.6.7
+00007fbed26e6000       8       8       8 r---- libexpat.so.1.6.7
+00007fbed26e6000       0       0       0 r---- libexpat.so.1.6.7
+00007fbed26e8000       4       4       4 rw--- libexpat.so.1.6.7
+00007fbed26e8000       0       0       0 rw--- libexpat.so.1.6.7
+00007fbed26e9000    1652     968       0 r-x-- libm-2.27.so
+00007fbed26e9000       0       0       0 r-x-- libm-2.27.so
+00007fbed2886000    2044       0       0 ----- libm-2.27.so
+00007fbed2886000       0       0       0 ----- libm-2.27.so
+00007fbed2a85000       4       4       4 r---- libm-2.27.so
+00007fbed2a85000       0       0       0 r---- libm-2.27.so
+00007fbed2a86000       4       4       4 rw--- libm-2.27.so
+00007fbed2a86000       0       0       0 rw--- libm-2.27.so
+00007fbed2a87000    1620      64       0 r-x-- libgio-2.0.so.0.5600.4
+00007fbed2a87000       0       0       0 r-x-- libgio-2.0.so.0.5600.4
+00007fbed2c1c000    2048       0       0 ----- libgio-2.0.so.0.5600.4
+00007fbed2c1c000       0       0       0 ----- libgio-2.0.so.0.5600.4
+00007fbed2e1c000      28      28      28 r---- libgio-2.0.so.0.5600.4
+00007fbed2e1c000       0       0       0 r---- libgio-2.0.so.0.5600.4
+00007fbed2e23000       4       4       4 rw--- libgio-2.0.so.0.5600.4
+00007fbed2e23000       0       0       0 rw--- libgio-2.0.so.0.5600.4
+00007fbed2e24000       8       0       0 rw---   [ anon ]
+00007fbed2e24000       0       0       0 rw---   [ anon ]
+00007fbed2e26000     300      64       0 r-x-- libdbus-1.so.3.19.4
+00007fbed2e26000       0       0       0 r-x-- libdbus-1.so.3.19.4
+00007fbed2e71000    2048       0       0 ----- libdbus-1.so.3.19.4
+00007fbed2e71000       0       0       0 ----- libdbus-1.so.3.19.4
+00007fbed3071000       4       4       4 r---- libdbus-1.so.3.19.4
+00007fbed3071000       0       0       0 r---- libdbus-1.so.3.19.4
+00007fbed3072000       4       4       4 rw--- libdbus-1.so.3.19.4
+00007fbed3072000       0       0       0 rw--- libdbus-1.so.3.19.4
+00007fbed3073000     524      64       0 r-x-- libcups.so.2
+00007fbed3073000       0       0       0 r-x-- libcups.so.2
+00007fbed30f6000    2044       0       0 ----- libcups.so.2
+00007fbed30f6000       0       0       0 ----- libcups.so.2
+00007fbed32f5000      36      36      36 r---- libcups.so.2
+00007fbed32f5000       0       0       0 r---- libcups.so.2
+00007fbed32fe000       4       4       4 rw--- libcups.so.2
+00007fbed32fe000       0       0       0 rw--- libcups.so.2
+00007fbed32ff000      20      20       0 r-x-- libXtst.so.6.1.0
+00007fbed32ff000       0       0       0 r-x-- libXtst.so.6.1.0
+00007fbed3304000    2044       0       0 ----- libXtst.so.6.1.0
+00007fbed3304000       0       0       0 ----- libXtst.so.6.1.0
+00007fbed3503000       4       4       4 r---- libXtst.so.6.1.0
+00007fbed3503000       0       0       0 r---- libXtst.so.6.1.0
+00007fbed3504000       4       4       4 rw--- libXtst.so.6.1.0
+00007fbed3504000       0       0       0 rw--- libXtst.so.6.1.0
+00007fbed3505000      36      36       0 r-x-- libXrender.so.1.3.0
+00007fbed3505000       0       0       0 r-x-- libXrender.so.1.3.0
+00007fbed350e000    2044       0       0 ----- libXrender.so.1.3.0
+00007fbed350e000       0       0       0 ----- libXrender.so.1.3.0
+00007fbed370d000       4       4       4 r---- libXrender.so.1.3.0
+00007fbed370d000       0       0       0 r---- libXrender.so.1.3.0
+00007fbed370e000       4       4       4 rw--- libXrender.so.1.3.0
+00007fbed370e000       0       0       0 rw--- libXrender.so.1.3.0
+00007fbed370f000      60      60       0 r-x-- libXi.so.6.1.0
+00007fbed370f000       0       0       0 r-x-- libXi.so.6.1.0
+00007fbed371e000    2044       0       0 ----- libXi.so.6.1.0
+00007fbed371e000       0       0       0 ----- libXi.so.6.1.0
+00007fbed391d000       4       4       4 r---- libXi.so.6.1.0
+00007fbed391d000       0       0       0 r---- libXi.so.6.1.0
+00007fbed391e000       4       4       4 rw--- libXi.so.6.1.0
+00007fbed391e000       0       0       0 rw--- libXi.so.6.1.0
+00007fbed391f000      20      20       0 r-x-- libXfixes.so.3.1.0
+00007fbed391f000       0       0       0 r-x-- libXfixes.so.3.1.0
+00007fbed3924000    2044       0       0 ----- libXfixes.so.3.1.0
+00007fbed3924000       0       0       0 ----- libXfixes.so.3.1.0
+00007fbed3b23000       4       4       4 r---- libXfixes.so.3.1.0
+00007fbed3b23000       0       0       0 r---- libXfixes.so.3.1.0
+00007fbed3b24000       4       4       4 rw--- libXfixes.so.3.1.0
+00007fbed3b24000       0       0       0 rw--- libXfixes.so.3.1.0
+00007fbed3b25000      68      64       0 r-x-- libXext.so.6.4.0
+00007fbed3b25000       0       0       0 r-x-- libXext.so.6.4.0
+00007fbed3b36000    2044       0       0 ----- libXext.so.6.4.0
+00007fbed3b36000       0       0       0 ----- libXext.so.6.4.0
+00007fbed3d35000       4       4       4 r---- libXext.so.6.4.0
+00007fbed3d35000       0       0       0 r---- libXext.so.6.4.0
+00007fbed3d36000       4       4       4 rw--- libXext.so.6.4.0
+00007fbed3d36000       0       0       0 rw--- libXext.so.6.4.0
+00007fbed3d37000       8       8       0 r-x-- libXdamage.so.1.1.0
+00007fbed3d37000       0       0       0 r-x-- libXdamage.so.1.1.0
+00007fbed3d39000    2044       0       0 ----- libXdamage.so.1.1.0
+00007fbed3d39000       0       0       0 ----- libXdamage.so.1.1.0
+00007fbed3f38000       4       4       4 r---- libXdamage.so.1.1.0
+00007fbed3f38000       0       0       0 r---- libXdamage.so.1.1.0
+00007fbed3f39000       4       4       4 rw--- libXdamage.so.1.1.0
+00007fbed3f39000       0       0       0 rw--- libXdamage.so.1.1.0
+00007fbed3f3a000      36      36       0 r-x-- libXcursor.so.1.0.2
+00007fbed3f3a000       0       0       0 r-x-- libXcursor.so.1.0.2
+00007fbed3f43000    2044       0       0 ----- libXcursor.so.1.0.2
+00007fbed3f43000       0       0       0 ----- libXcursor.so.1.0.2
+00007fbed4142000       4       4       4 r---- libXcursor.so.1.0.2
+00007fbed4142000       0       0       0 r---- libXcursor.so.1.0.2
+00007fbed4143000       4       4       4 rw--- libXcursor.so.1.0.2
+00007fbed4143000       0       0       0 rw--- libXcursor.so.1.0.2
+00007fbed4144000       8       8       0 r-x-- libXcomposite.so.1.0.0
+00007fbed4144000       0       0       0 r-x-- libXcomposite.so.1.0.0
+00007fbed4146000    2044       0       0 ----- libXcomposite.so.1.0.0
+00007fbed4146000       0       0       0 ----- libXcomposite.so.1.0.0
+00007fbed4345000       4       4       4 r---- libXcomposite.so.1.0.0
+00007fbed4345000       0       0       0 r---- libXcomposite.so.1.0.0
+00007fbed4346000       4       4       4 rw--- libXcomposite.so.1.0.0
+00007fbed4346000       0       0       0 rw--- libXcomposite.so.1.0.0
+00007fbed4347000      12      12       0 r-x-- libxcb-dri3.so.0.0.0
+00007fbed4347000       0       0       0 r-x-- libxcb-dri3.so.0.0.0
+00007fbed434a000    2044       0       0 ----- libxcb-dri3.so.0.0.0
+00007fbed434a000       0       0       0 ----- libxcb-dri3.so.0.0.0
+00007fbed4549000       4       4       4 r---- libxcb-dri3.so.0.0.0
+00007fbed4549000       0       0       0 r---- libxcb-dri3.so.0.0.0
+00007fbed454a000       4       4       4 rw--- libxcb-dri3.so.0.0.0
+00007fbed454a000       0       0       0 rw--- libxcb-dri3.so.0.0.0
+00007fbed454b000     152      64       0 r-x-- libxcb.so.1.1.0
+00007fbed454b000       0       0       0 r-x-- libxcb.so.1.1.0
+00007fbed4571000    2048       0       0 ----- libxcb.so.1.1.0
+00007fbed4571000       0       0       0 ----- libxcb.so.1.1.0
+00007fbed4771000       4       4       4 r---- libxcb.so.1.1.0
+00007fbed4771000       0       0       0 r---- libxcb.so.1.1.0
+00007fbed4772000       4       4       4 rw--- libxcb.so.1.1.0
+00007fbed4772000       0       0       0 rw--- libxcb.so.1.1.0
+00007fbed4773000       4       4       0 r-x-- libX11-xcb.so.1.0.0
+00007fbed4773000       0       0       0 r-x-- libX11-xcb.so.1.0.0
+00007fbed4774000    2044       0       0 ----- libX11-xcb.so.1.0.0
+00007fbed4774000       0       0       0 ----- libX11-xcb.so.1.0.0
+00007fbed4973000       4       4       4 r---- libX11-xcb.so.1.0.0
+00007fbed4973000       0       0       0 r---- libX11-xcb.so.1.0.0
+00007fbed4974000       4       4       4 rw--- libX11-xcb.so.1.0.0
+00007fbed4974000       0       0       0 rw--- libX11-xcb.so.1.0.0
+00007fbed4975000    1228      64       0 r-x-- libX11.so.6.3.0
+00007fbed4975000       0       0       0 r-x-- libX11.so.6.3.0
+00007fbed4aa8000    2048       0       0 ----- libX11.so.6.3.0
+00007fbed4aa8000       0       0       0 ----- libX11.so.6.3.0
+00007fbed4ca8000       4       4       4 r---- libX11.so.6.3.0
+00007fbed4ca8000       0       0       0 r---- libX11.so.6.3.0
+00007fbed4ca9000      16      16      16 rw--- libX11.so.6.3.0
+00007fbed4ca9000       0       0       0 rw--- libX11.so.6.3.0
+00007fbed4cad000     184      64       0 r-x-- libatk-bridge-2.0.so.0.0.0
+00007fbed4cad000       0       0       0 r-x-- libatk-bridge-2.0.so.0.0.0
+00007fbed4cdb000    2048       0       0 ----- libatk-bridge-2.0.so.0.0.0
+00007fbed4cdb000       0       0       0 ----- libatk-bridge-2.0.so.0.0.0
+00007fbed4edb000       4       4       4 r---- libatk-bridge-2.0.so.0.0.0
+00007fbed4edb000       0       0       0 r---- libatk-bridge-2.0.so.0.0.0
+00007fbed4edc000       4       4       4 rw--- libatk-bridge-2.0.so.0.0.0
+00007fbed4edc000       0       0       0 rw--- libatk-bridge-2.0.so.0.0.0
+00007fbed4edd000       4       0       0 rw---   [ anon ]
+00007fbed4edd000       0       0       0 rw---   [ anon ]
+00007fbed4ede000     136      64       0 r-x-- libatk-1.0.so.0.22810.1
+00007fbed4ede000       0       0       0 r-x-- libatk-1.0.so.0.22810.1
+00007fbed4f00000    2048       0       0 ----- libatk-1.0.so.0.22810.1
+00007fbed4f00000       0       0       0 ----- libatk-1.0.so.0.22810.1
+00007fbed5100000      12      12      12 r---- libatk-1.0.so.0.22810.1
+00007fbed5100000       0       0       0 r---- libatk-1.0.so.0.22810.1
+00007fbed5103000       4       4       4 rw--- libatk-1.0.so.0.22810.1
+00007fbed5103000       0       0       0 rw--- libatk-1.0.so.0.22810.1
+00007fbed5104000      40      40       0 r-x-- libXrandr.so.2.2.0
+00007fbed5104000       0       0       0 r-x-- libXrandr.so.2.2.0
+00007fbed510e000    2044       0       0 ----- libXrandr.so.2.2.0
+00007fbed510e000       0       0       0 ----- libXrandr.so.2.2.0
+00007fbed530d000       4       4       4 r---- libXrandr.so.2.2.0
+00007fbed530d000       0       0       0 r---- libXrandr.so.2.2.0
+00007fbed530e000       4       4       4 rw--- libXrandr.so.2.2.0
+00007fbed530e000       0       0       0 rw--- libXrandr.so.2.2.0
+00007fbed530f000     228      64       0 r-x-- libnspr4.so
+00007fbed530f000       0       0       0 r-x-- libnspr4.so
+00007fbed5348000    2044       0       0 ----- libnspr4.so
+00007fbed5348000       0       0       0 ----- libnspr4.so
+00007fbed5547000       4       4       4 r---- libnspr4.so
+00007fbed5547000       0       0       0 r---- libnspr4.so
+00007fbed5548000       4       4       4 rw--- libnspr4.so
+00007fbed5548000       0       0       0 rw--- libnspr4.so
+00007fbed5549000      12       0       0 rw---   [ anon ]
+00007fbed5549000       0       0       0 rw---   [ anon ]
+00007fbed554c000     164      64       0 r-x-- libsmime3.so
+00007fbed554c000       0       0       0 r-x-- libsmime3.so
+00007fbed5575000    2044       0       0 ----- libsmime3.so
+00007fbed5575000       0       0       0 ----- libsmime3.so
+00007fbed5774000      12      12      12 r---- libsmime3.so
+00007fbed5774000       0       0       0 r---- libsmime3.so
+00007fbed5777000       4       4       4 rw--- libsmime3.so
+00007fbed5777000       0       0       0 rw--- libsmime3.so
+00007fbed5778000     160      64       0 r-x-- libnssutil3.so
+00007fbed5778000       0       0       0 r-x-- libnssutil3.so
+00007fbed57a0000    2044       0       0 ----- libnssutil3.so
+00007fbed57a0000       0       0       0 ----- libnssutil3.so
+00007fbed599f000      28      28      28 r---- libnssutil3.so
+00007fbed599f000       0       0       0 r---- libnssutil3.so
+00007fbed59a6000       4       4       4 rw--- libnssutil3.so
+00007fbed59a6000       0       0       0 rw--- libnssutil3.so
+00007fbed59a7000    1264      64       0 r-x-- libnss3.so
+00007fbed59a7000       0       0       0 r-x-- libnss3.so
+00007fbed5ae3000    2048       0       0 ----- libnss3.so
+00007fbed5ae3000       0       0       0 ----- libnss3.so
+00007fbed5ce3000      20      20      20 r---- libnss3.so
+00007fbed5ce3000       0       0       0 r---- libnss3.so
+00007fbed5ce8000       8       8       8 rw--- libnss3.so
+00007fbed5ce8000       0       0       0 rw--- libnss3.so
+00007fbed5cea000       4       0       0 rw---   [ anon ]
+00007fbed5cea000       0       0       0 rw---   [ anon ]
+00007fbed5ceb000    1104      64       0 r-x-- libglib-2.0.so.0.5600.4
+00007fbed5ceb000       0       0       0 r-x-- libglib-2.0.so.0.5600.4
+00007fbed5dff000    2048       0       0 ----- libglib-2.0.so.0.5600.4
+00007fbed5dff000       0       0       0 ----- libglib-2.0.so.0.5600.4
+00007fbed5fff000       4       4       4 r---- libglib-2.0.so.0.5600.4
+00007fbed5fff000       0       0       0 r---- libglib-2.0.so.0.5600.4
+00007fbed6000000       4       4       4 rw--- libglib-2.0.so.0.5600.4
+00007fbed6000000       0       0       0 rw--- libglib-2.0.so.0.5600.4
+00007fbed6001000       4       0       0 rw---   [ anon ]
+00007fbed6001000       0       0       0 rw---   [ anon ]
+00007fbed6002000     328      64       0 r-x-- libgobject-2.0.so.0.5600.4
+00007fbed6002000       0       0       0 r-x-- libgobject-2.0.so.0.5600.4
+00007fbed6054000    2048       0       0 ----- libgobject-2.0.so.0.5600.4
+00007fbed6054000       0       0       0 ----- libgobject-2.0.so.0.5600.4
+00007fbed6254000       4       4       4 r---- libgobject-2.0.so.0.5600.4
+00007fbed6254000       0       0       0 r---- libgobject-2.0.so.0.5600.4
+00007fbed6255000       4       4       4 rw--- libgobject-2.0.so.0.5600.4
+00007fbed6255000       0       0       0 rw--- libgobject-2.0.so.0.5600.4
+00007fbed6256000      28      28       0 r-x-- librt-2.27.so
+00007fbed6256000       0       0       0 r-x-- librt-2.27.so
+00007fbed625d000    2044       0       0 ----- librt-2.27.so
+00007fbed625d000       0       0       0 ----- librt-2.27.so
+00007fbed645c000       4       4       4 r---- librt-2.27.so
+00007fbed645c000       0       0       0 r---- librt-2.27.so
+00007fbed645d000       4       4       4 rw--- librt-2.27.so
+00007fbed645d000       0       0       0 rw--- librt-2.27.so
+00007fbed645e000     104     104       0 r-x-- libpthread-2.27.so
+00007fbed645e000       0       0       0 r-x-- libpthread-2.27.so
+00007fbed6478000    2044       0       0 ----- libpthread-2.27.so
+00007fbed6478000       0       0       0 ----- libpthread-2.27.so
+00007fbed6677000       4       4       4 r---- libpthread-2.27.so
+00007fbed6677000       0       0       0 r---- libpthread-2.27.so
+00007fbed6678000       4       4       4 rw--- libpthread-2.27.so
+00007fbed6678000       0       0       0 rw--- libpthread-2.27.so
+00007fbed6679000      16       4       4 rw---   [ anon ]
+00007fbed6679000       0       0       0 rw---   [ anon ]
+00007fbed667d000      12      12       0 r-x-- libdl-2.27.so
+00007fbed667d000       0       0       0 r-x-- libdl-2.27.so
+00007fbed6680000    2044       0       0 ----- libdl-2.27.so
+00007fbed6680000       0       0       0 ----- libdl-2.27.so
+00007fbed687f000       4       4       4 r---- libdl-2.27.so
+00007fbed687f000       0       0       0 r---- libdl-2.27.so
+00007fbed6880000       4       4       4 rw--- libdl-2.27.so
+00007fbed6880000       0       0       0 rw--- libdl-2.27.so
+00007fbed6881000     156     156       0 r-x-- ld-2.27.so
+00007fbed6881000       0       0       0 r-x-- ld-2.27.so
+00007fbed68f5000     128     128     128 r--s- .com.google.Chrome.WrZBhr (deleted)
+00007fbed68f5000       0       0       0 r--s- .com.google.Chrome.WrZBhr (deleted)
+00007fbed6915000     228       0       0 r--s- en-US.pak
+00007fbed6915000       0       0       0 r--s- en-US.pak
+00007fbed694e000     872       0       0 r--s- chrome_100_percent.pak
+00007fbed694e000       0       0       0 r--s- chrome_100_percent.pak
+00007fbed6a28000     168     168       0 r--s- v8_context_snapshot.bin
+00007fbed6a28000       0       0       0 r--s- v8_context_snapshot.bin
+00007fbed6a52000     180     176     176 rw---   [ anon ]
+00007fbed6a52000       0       0       0 rw---   [ anon ]
+00007fbed6a84000       4       4       4 rw-s- .com.google.Chrome.L6Bytn (deleted)
+00007fbed6a84000       0       0       0 rw-s- .com.google.Chrome.L6Bytn (deleted)
+00007fbed6a85000       4       4       4 rw-s- .com.google.Chrome.ab3Vtv (deleted)
+00007fbed6a85000       0       0       0 rw-s- .com.google.Chrome.ab3Vtv (deleted)
+00007fbed6a86000       8       8       8 r--s- .com.google.Chrome.kbNk11 (deleted)
+00007fbed6a86000       0       0       0 r--s- .com.google.Chrome.kbNk11 (deleted)
+00007fbed6a88000     128      32      32 r--s- .com.google.Chrome.E87XyU (deleted)
+00007fbed6a88000       0       0       0 r--s- .com.google.Chrome.E87XyU (deleted)
+00007fbed6aa8000       4       4       4 r---- ld-2.27.so
+00007fbed6aa8000       0       0       0 r---- ld-2.27.so
+00007fbed6aa9000       4       4       4 rw--- ld-2.27.so
+00007fbed6aa9000       0       0       0 rw--- ld-2.27.so
+00007fbed6aaa000       4       4       4 rw---   [ anon ]
+00007fbed6aaa000       0       0       0 rw---   [ anon ]
+00007ffefca35000     132     112     112 rw---   [ stack ]
+00007ffefca35000       0       0       0 rw---   [ stack ]
+00007ffefcb85000      12       0       0 r----   [ anon ]
+00007ffefcb85000       0       0       0 r----   [ anon ]
+00007ffefcb88000       4       4       0 r-x--   [ anon ]
+00007ffefcb88000       0       0       0 r-x--   [ anon ]
+ffffffffff600000       4       0       0 --x--   [ anon ]
+ffffffffff600000       0       0       0 --x--   [ anon ]
